@@ -27,3 +27,19 @@ flutter create flutter_ai_age
 
 - git
 - comandos de la terminal
+
+## IDES con IA
+
+- VS Code con Copilot
+- Cursor con Cursor AI
+
+# Pantallas que tiene este proyecto
+
+- Calculo de interes compuesto
+
+
+# Paquetes de Flutter
+
+Gestores de paquetes
+
+- https://pub.dev/
